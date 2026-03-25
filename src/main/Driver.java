@@ -176,6 +176,7 @@ public class Driver {
                 default -> System.out.println("Invalid option entered: " + option);
             }
 
+
             if (isUpdated) {
                 System.out.println("Post Updated Successfully");
             } else {
